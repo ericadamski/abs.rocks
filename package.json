@@ -1,0 +1,20 @@
+{
+  "name": "abs.rocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ericadamski/abs.rocks.git",
+  "author": "Eric Adamski <er.adamski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@geist-ui/react": "^2.1.0-canary.0",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "swr": "^0.3.5"
+  },
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "dev": "next dev"
+  }
+}
